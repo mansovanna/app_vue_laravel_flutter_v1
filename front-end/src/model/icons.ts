@@ -1,0 +1,5 @@
+export { default as IconSearch } from '../assets/icons/IconSearch.vue'
+export { default as IconSupport } from '../assets/icons/IconSupport.vue'
+export { default as IconTooling } from '../assets/icons/IconTooling.vue'
+export { default as IconCommunity } from '../assets/icons/IconCommunity.vue'
+export { default as IconDocumentation } from '../assets/icons/IconDocumentation.vue'
