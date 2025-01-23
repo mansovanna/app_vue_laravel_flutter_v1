@@ -4,7 +4,7 @@ import MainHeader from '../Headers/MainHeader.vue';
 </script>
 
 <template>
-  <div class="w-full h-screen flex overflow-x-hidden">
+  <div class="w-full h-screen flex overflow-x-hidden dark:bg-boxdark-2">
     <!-- Start Side Bar -->
     <MainSidebar />
     <!-- End Side Bar -->
